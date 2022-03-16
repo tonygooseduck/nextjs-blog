@@ -10,7 +10,7 @@ export default function Home({ allPostsData }) {
 		<title>{siteTitle}</title>
 	  </Head>
 	  <section className={utilStyles.headingMd}>
-		<p>Hello, my name is Iu Chian. I am a software engineer interested in building great applications.</p>
+		<p>Hello, my name is Iu Chian. I am a software engineer with a non-traditional background. This is a blog that I would like to use as an engineering daybook. Basically just jotting down thoughts and ideas.</p>
 	  </section>
 	  <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
 		<h2 className={utilStyles.headingLg}>Blog</h2>
